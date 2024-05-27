@@ -2,7 +2,7 @@
 
 const route = useRoute();
 const name = computed(()=> {
-    return route.params.name.replaceAll("-", " ");
+    return route.params.name.replaceAll("-"," ");
 })
 </script>
 <template>

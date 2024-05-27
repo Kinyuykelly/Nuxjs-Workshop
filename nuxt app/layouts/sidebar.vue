@@ -1,5 +1,5 @@
 <template>
-  <main class="user-layout">
+  <main class="user-layout bg-gray-200">
     <article class="sidebar">
       <p>Dashboard</p>
       <p>Settings</p>
